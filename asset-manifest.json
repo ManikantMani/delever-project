@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/delever-project/static/css/main.9507bfc2.css",
-    "main.js": "/delever-project/static/js/main.a10fae14.js",
+    "main.js": "/delever-project/static/js/main.36366ee2.js",
     "static/media/img1.png": "/delever-project/static/media/img1.35ca239188709e92d9b1.png",
     "static/media/bg1.jpg": "/delever-project/static/media/bg1.025403c7a81ee23a1c4f.jpg",
     "static/media/man.jpg": "/delever-project/static/media/man.b155f9d9d8e8585d33ba.jpg",
@@ -14,10 +14,10 @@
     "static/media/bg2.png": "/delever-project/static/media/bg2.6c3649674ae204021ec6.png",
     "index.html": "/delever-project/index.html",
     "main.9507bfc2.css.map": "/delever-project/static/css/main.9507bfc2.css.map",
-    "main.a10fae14.js.map": "/delever-project/static/js/main.a10fae14.js.map"
+    "main.36366ee2.js.map": "/delever-project/static/js/main.36366ee2.js.map"
   },
   "entrypoints": [
     "static/css/main.9507bfc2.css",
-    "static/js/main.a10fae14.js"
+    "static/js/main.36366ee2.js"
   ]
 }
