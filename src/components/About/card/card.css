@@ -1,0 +1,78 @@
+.about_card_container {
+    /* border: solid 2px red; */
+    width: 15vw;
+    background-color: #fff;
+    height: 40vh;
+    padding: 1.5rem;
+    margin: 1.5rem;
+}
+.about_card_img {
+    width: 4.5rem;
+    max-width: 4.5rem;
+    height: auto;
+}
+.about_card_h2 {
+    margin-top: 1rem;
+    font-size: 1.4rem;
+    font-weight: 500;
+}
+.about_card_p {
+    font-weight: lighter;
+}
+
+@media only screen and (max-width: 300px) {
+    .about_card_container {
+        width: 90vw;
+        margin: 1rem;
+    }
+    
+}
+
+@media (min-width:300px) and (max-width: 360px) {
+    .about_card_container {
+        width: 90vw;
+        margin: 1rem;
+    }
+}
+
+@media (min-width:360px) and (max-width: 410px) {
+    .about_card_container {
+        width: 90vw;
+        margin: 1rem;
+    }
+}
+
+@media (min-width:410px) and (max-width: 500px) {
+    .about_card_container {
+        width: 90vw;
+        margin: 1rem;
+    }
+}
+
+@media (min-width:500px) and (max-width: 600px){
+    .about_card_container {
+        width: 90vw;
+        margin: 1rem;
+    }
+}
+
+@media (min-width: 600px)  and (max-width: 768px) {
+    .about_card_container {
+        width: 90vw;
+        margin: 1rem;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+    .about_card_container {
+        width: 90vw;
+        margin: 1rem;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .about_card_container {
+        width: 90vw;
+        margin: 1rem;
+    }
+}

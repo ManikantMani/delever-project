@@ -1,0 +1,120 @@
+.gallery_container {
+    margin: 2rem 25vw;
+}
+.gallery_img {
+    width: 13rem;
+    height: 15ch;
+    margin: 0.5rem;
+    margin-right: 1.5rem;
+}
+
+@media only screen and (max-width: 300px) {
+    .gallery_container {
+        margin: 0;
+        margin-left: 1rem;
+    }
+    .gallery_img {
+        width: 80vw;
+        margin: 1rem;
+
+    }
+}
+
+@media (min-width:300px) and (max-width: 360px) {
+    .gallery_container {
+        margin: 0;
+        margin-left: 1rem;
+    }
+    .gallery_img {
+        width: 80vw;
+        margin: 1rem;
+
+    }
+}
+
+@media (min-width:360px) and (max-width: 410px) {
+    .gallery_container {
+        margin: 0;
+        margin-left: 1rem;
+    }
+    .gallery_img {
+        width: 80vw;
+        margin: 1rem;
+
+    }
+}
+
+@media (min-width:410px) and (max-width: 500px) {
+    .gallery_container {
+        margin: 0;
+        margin-left: 1rem;
+    }
+    .gallery_img {
+        width: 80vw;
+        height: 30vh;
+        margin: 1rem;
+
+    }
+    .gallery_container {
+        margin: 0;
+        margin-left: 1rem;
+    }
+    .gallery_img {
+        width: 80vw;
+        height: 30vh;
+        margin: 1rem;
+
+    }
+}
+
+@media (min-width:500px) and (max-width: 600px){
+    .gallery_container {
+        margin: 0;
+        margin-left: 1rem;
+    }
+    .gallery_img {
+        width: 80vw;
+        height: 30vh;
+        margin: 1rem;
+
+    }
+}
+
+@media (min-width: 600px)  and (max-width: 768px) {
+    .gallery_container {
+        margin: 0;
+        margin-left: 1rem;
+    }
+    .gallery_img {
+        width: 70vw;
+        height: 30vh;
+        margin: 2.5rem;
+
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+    .gallery_container {
+        margin: 0;
+        margin-left: 7rem;
+    }
+    .gallery_img {
+        width: 20vw;
+        height: 30vh;
+        margin: 1.5rem;
+
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .gallery_container {
+        margin: 0;
+        margin-left: 7rem;
+    }
+    .gallery_img {
+        width: 20vw;
+        height: 30vh;
+        margin: 1.5rem;
+
+    }
+}

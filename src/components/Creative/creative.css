@@ -1,0 +1,226 @@
+.creative_container {
+    border: solid 2px transparent;
+    width: 100%;
+    height: 70vh;
+    /* margin-top: 4rem; */
+}
+.creative_main {
+    /* border: solid 2px red; */
+    display: flex;
+    width: 60%;
+    margin: 6rem;
+    margin-left: 20vw;
+    background-color: #fff;
+}
+.creative_image {
+    width: 100%;
+    /* border: solid 2px red; */
+}
+.creative_img {
+    height: 100%;
+    width: 100%;
+}
+.creative_content {
+    /* border: solid 2px red; */
+    padding: 2rem;
+    padding-left: 4rem;
+
+}
+.creative_h2 {
+    font-size: 3rem;
+    font-weight: 700;
+}
+.creative_p {
+    font-weight: 500;
+    margin-top: 1rem;
+}
+.creative_p_a {
+    color: rgb(36, 36, 36);
+}
+.creative_p_a > a:hover {
+    color: rgb(0, 0, 0);
+}
+.creative_button {
+    margin-top: 1.5rem;
+    width: 10rem;
+    height: 3rem;
+    border-radius: 2rem;
+    border: none;
+    font-size: 1rem;
+    font-weight: 500;
+    background-color: rgb(190, 126, 136);
+    color: rgb(255, 255, 255);
+}
+.creative_button:hover {
+    color: black;
+}
+
+@media only screen and (max-width: 300px) {
+    .creative_container {
+        width: 100%;
+        height: 100vh;
+    }
+    .creative_main {
+        width: 80vw;
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        margin-left: 2rem;
+        margin-top: 1rem;
+    }
+    .creative_content {
+        padding: 1rem;
+    }
+    .creative_h2 {
+        font-size: 2rem;
+    }
+}
+
+@media (min-width:300px) and (max-width: 360px) {
+    .creative_container {
+        width: 100%;
+        height: 100vh;
+    }
+    .creative_main {
+        width: 80vw;
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        margin-left: 2rem;
+        margin-top: 1rem;
+    }
+    .creative_content {
+        padding: 1rem;
+    }
+    .creative_h2 {
+        font-size: 2rem;
+    }
+}
+
+@media (min-width:360px) and (max-width: 410px) {
+    .creative_container {
+        width: 100%;
+        height: 100vh;
+    }
+    .creative_main {
+        width: 80vw;
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        margin-left: 2rem;
+        margin-top: 1rem;
+    }
+    .creative_content {
+        padding: 1rem;
+    }
+    .creative_h2 {
+        font-size: 2rem;
+    }
+}
+
+@media (min-width:410px) and (max-width: 500px) {
+    .creative_container {
+        width: 100%;
+        height: 100vh;
+    }
+    .creative_main {
+        width: 80vw;
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        margin-left: 2rem;
+        margin-top: 1rem;
+    }
+    .creative_content {
+        padding: 1rem;
+    }
+    .creative_h2 {
+        font-size: 2rem;
+    }
+}
+
+@media (min-width:500px) and (max-width: 600px){
+    .creative_container {
+        width: 100%;
+        height: 100vh;
+    }
+    .creative_main {
+        width: 80vw;
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        margin-left: 2rem;
+        margin-top: 1rem;
+    }
+    .creative_content {
+        padding: 1rem;
+    }
+    .creative_h2 {
+        font-size: 2rem;
+    }
+}
+
+@media (min-width: 600px)  and (max-width: 768px) {
+    .creative_container {
+        width: 100%;
+        height: 110vh;
+    }
+    .creative_main {
+        width: 80vw;
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        margin-left: 3.5rem;
+        margin-top: 1rem;
+    }
+    .creative_content {
+        padding: 1rem;
+    }
+    .creative_h2 {
+        font-size: 2rem;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+    .creative_container {
+        width: 100%;
+        height: 100vh;
+    }
+    .creative_main {
+        width: 90vw;
+        height: 60vh;
+        margin: 0;
+        margin-left: 3rem;
+        margin-top: 15vh;
+    }
+    .creative_content {
+        padding: 1rem;
+        margin-left: 2rem;
+        margin-top: 2rem;
+    }
+    .creative_h2 {
+        font-size: 2rem;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .creative_container {
+        width: 100%;
+        height: 100vh;
+    }
+    .creative_main {
+        width: 90vw;
+        height: 60vh;
+        margin: 0;
+        margin-left: 3rem;
+        margin-top: 15vh;
+    }
+    .creative_content {
+        padding: 1rem;
+        margin-left: 2rem;
+        margin-top: 2rem;
+    }
+    .creative_h2 {
+        font-size: 2rem;
+    }
+}
