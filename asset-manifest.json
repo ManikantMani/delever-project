@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/delever-project/static/css/main.9507bfc2.css",
+    "main.js": "/delever-project/static/js/main.a10fae14.js",
+    "static/media/img1.png": "/delever-project/static/media/img1.35ca239188709e92d9b1.png",
+    "static/media/bg1.jpg": "/delever-project/static/media/bg1.025403c7a81ee23a1c4f.jpg",
+    "static/media/man.jpg": "/delever-project/static/media/man.b155f9d9d8e8585d33ba.jpg",
+    "static/media/logo2.png": "/delever-project/static/media/logo2.0561c4e35e6a5d7d6842.png",
+    "static/media/logo1.png": "/delever-project/static/media/logo1.cb31515e8b4726495fb7.png",
+    "static/media/logo4.png": "/delever-project/static/media/logo4.160c8fdfef9f0b9039c7.png",
+    "static/media/img2.png": "/delever-project/static/media/img2.bc1c273d18b594341932.png",
+    "static/media/logo3.png": "/delever-project/static/media/logo3.489adb13de74bb6f0047.png",
+    "static/media/bg.jpg": "/delever-project/static/media/bg.8850789f8e7046e88f98.jpg",
+    "static/media/bg2.png": "/delever-project/static/media/bg2.6c3649674ae204021ec6.png",
+    "index.html": "/delever-project/index.html",
+    "main.9507bfc2.css.map": "/delever-project/static/css/main.9507bfc2.css.map",
+    "main.a10fae14.js.map": "/delever-project/static/js/main.a10fae14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9507bfc2.css",
+    "static/js/main.a10fae14.js"
+  ]
+}
